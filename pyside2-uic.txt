@@ -1,0 +1,1 @@
+(pyLobo) C:\Users\spoon\Dev\pyLobo>pyside2-uic ./forms/result_form.ui -o ./forms/result_form_ui.py

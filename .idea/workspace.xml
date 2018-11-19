@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06232165-7272-406a-929f-1192021ffe72" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-956058358">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="150" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="150" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="120" />
+          <entry key="py" value="43971" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="120" />
+          <entry key="Python" value="43971" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/forms/team_form.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#580#769#0" />
+                <element signature="e#826#2090#0" />
+                <element signature="e#969#1561#0" />
+                <element signature="e#1036#1527#0" />
+                <element signature="e#1080#1191#0" />
+                <element signature="e#1252#1359#0" />
+                <element signature="e#1420#1527#0" />
+                <element signature="e#1910#2090#0" />
+                <element signature="e#2142#4329#0" />
+                <element signature="e#2197#2669#0" />
+                <element signature="e#2267#2632#0" />
+                <element signature="e#2311#2419#0" />
+                <element signature="e#2482#2632#0" />
+                <element signature="e#2835#3611#0" />
+                <element signature="e#3720#4155#0" />
+                <element signature="e#3910#4126#0" />
+                <element signature="e#4059#4126#0" />
+                <element signature="e#4276#4329#0" />
+                <element signature="e#4385#4761#0" />
+                <element signature="e#4396#4682#0" />
+                <element signature="e#4467#4681#0" />
+                <element signature="e#4819#5293#0" />
+                <element signature="e#4830#5181#0" />
+                <element signature="e#4921#5180#0" />
+                <element signature="e#5333#5479#0" />
+                <element signature="e#5524#5575#0" />
+                <element signature="e#5653#5767#0" />
+                <element signature="e#5810#5846#0" />
+                <element signature="e#5893#6178#0" />
+                <element signature="e#6059#6178#0" />
+                <element signature="e#6229#6559#0" />
+                <element signature="e#6307#6532#0" />
+                <element signature="e#6620#6990#0" />
+                <element signature="e#7035#8922#0" />
+                <element signature="e#7122#7357#0" />
+                <element signature="e#7451#7695#0" />
+                <element signature="e#7814#8406#0" />
+                <element signature="e#7869#8406#0" />
+                <element signature="e#8131#8406#0" />
+                <element signature="e#8417#8459#0" />
+                <element signature="e#8985#9424#0" />
+                <element signature="e#9303#9424#0" />
+                <element signature="e#9454#10413#0" />
+                <element signature="e#9509#10413#0" />
+                <element signature="e#9731#10064#0" />
+                <element signature="e#10164#10413#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/forms/employee_form.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#133#0" expanded="true" />
+                <marker date="1542607160212" expanded="true" signature="481:485" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>web</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.myweb</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/codex_form_ui.py" />
+        <option value="$PROJECT_DIR$/Resource/web/get_abnoma.py" />
+        <option value="$PROJECT_DIR$/web/Portrait/scrape_cacher.py" />
+        <option value="$PROJECT_DIR$/web/scrape_cacher.py" />
+        <option value="$PROJECT_DIR$/web/get_abnoma.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/web/__init__.py" />
+        <option value="$PROJECT_DIR$/db.py" />
+        <option value="$PROJECT_DIR$/employee_controler.py" />
+        <option value="$PROJECT_DIR$/employee_controller.py" />
+        <option value="$PROJECT_DIR$/select_target_form.py" />
+        <option value="$PROJECT_DIR$/web/select_abnoma_form.py" />
+        <option value="$PROJECT_DIR$/abnoma_controller.py" />
+        <option value="$PROJECT_DIR$/web/tmp_sqlite.py" />
+        <option value="$PROJECT_DIR$/DGVTableModel.py" />
+        <option value="$PROJECT_DIR$/dgv_table_model.py" />
+        <option value="$PROJECT_DIR$/select_abnoma_form.py" />
+        <option value="$PROJECT_DIR$/qt_shape_util.py" />
+        <option value="$PROJECT_DIR$/tmp_sqlite.py" />
+        <option value="$PROJECT_DIR$/qt_util.py" />
+        <option value="$PROJECT_DIR$/forms/select_abnoma_form.py" />
+        <option value="$PROJECT_DIR$/forms/set_work_apetitude_form.py" />
+        <option value="$PROJECT_DIR$/forms/select_target_form.py" />
+        <option value="$PROJECT_DIR$/lobo.py" />
+        <option value="$PROJECT_DIR$/controller/abnoma_controller.py" />
+        <option value="$PROJECT_DIR$/forms/result_form.py" />
+        <option value="$PROJECT_DIR$/forms/team_form.py" />
+        <option value="$PROJECT_DIR$/controller/employee_controller.py" />
+        <option value="$PROJECT_DIR$/web/db.py" />
+        <option value="$PROJECT_DIR$/web/main.py" />
+        <option value="$PROJECT_DIR$/my_qt_util.py" />
+        <option value="$PROJECT_DIR$/web/db_web_func.py" />
+        <option value="$PROJECT_DIR$/web/equipment_egoname_scraper.py" />
+        <option value="$PROJECT_DIR$/web/portrait_scrape.py" />
+        <option value="$PROJECT_DIR$/web/abnoma_list_scrape.py" />
+        <option value="$PROJECT_DIR$/myweb/abnoma_list_scrape.py" />
+        <option value="$PROJECT_DIR$/myweb/portrait_scrape.py" />
+        <option value="$PROJECT_DIR$/myweb/main.py" />
+        <option value="$PROJECT_DIR$/myweb/db_web_func.py" />
+        <option value="$PROJECT_DIR$/myweb/equipment_egoname_scraper.py" />
+        <option value="$PROJECT_DIR$/setting_const.py" />
+        <option value="$PROJECT_DIR$/db_accessor.py" />
+        <option value="$PROJECT_DIR$/custom_component/dgv_table_model.py" />
+        <option value="$PROJECT_DIR$/forms/select_work_abnoma_form.py" />
+        <option value="$PROJECT_DIR$/forms/employee_form.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="230" />
+    <option name="y" value="100" />
+    <option name="width" value="1555" />
+    <option name="height" value="1025" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pyLobo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyLobo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyLobo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyLobo" type="462c0819:PsiDirectoryNode" />
+              <item name="forms" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="HTMLLog&#9;FILE&#9;file://C:/Users/spoon/Dev/pyLobo/web/HTMLLog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/main.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\spoon\Dev\pyLobo\forms" />
+      <recent name="C:\Users\spoon\Dev\pyLobo\controller" />
+      <recent name="C:\Users\spoon\Dev\pyLobo\custom_component" />
+      <recent name="C:\Users\spoon\Dev\pyLobo" />
+      <recent name="C:\Users\spoon\Dev\pyLobo\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.lobo">
+    <configuration name="get_abnoma (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyLobo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lobo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyLobo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lobo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="myweb_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyLobo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myweb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myweb/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tmp_sqlite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyLobo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tmp_sqlite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in main.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pyLobo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/web/main.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.lobo" />
+      <item itemvalue="Python.myweb_main" />
+      <item itemvalue="Python.get_abnoma (1)" />
+      <item itemvalue="Python.tmp_sqlite" />
+      <item itemvalue="Python テスト.pytest in main.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lobo" />
+        <item itemvalue="Python.myweb_main" />
+        <item itemvalue="Python テスト.pytest in main.py" />
+        <item itemvalue="Python.tmp_sqlite" />
+        <item itemvalue="Python.get_abnoma (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06232165-7272-406a-929f-1192021ffe72" name="Default Changelist" comment="" />
+      <created>1538726742697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538726742697</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_main_py - 2018.10.20 at 03h 04m 26s.xml">
+      <configuration name="pytest in main.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21414408" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32624114" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23262411" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39716312" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/setting_const.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tmp_sqlite.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/web/db_web_func.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myweb/db_web_func.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/codex_form_ui.py" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/pyLobo/Lib/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="382" selection-start-line="382" selection-end-line="382" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/pyLobo/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms/select_abnoma_form_ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp_sqlite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding>
+            <marker date="1539486178790" expanded="true" signature="328:329" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms/select_work_abnoma_form_ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="53" column="67" selection-start-line="53" selection-start-column="67" selection-end-line="53" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms/select_abnoma_form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms/set_work_apetitude_form_ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="117" column="35" selection-start-line="117" selection-start-column="35" selection-end-line="117" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms/select_target_form_ui.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms/set_work_apetitude_form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/pyLobo/Lib/pathlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="693" selection-start-line="693" selection-end-line="693" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms/select_target_form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="73" column="19" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms/team_form_ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="173" column="40" selection-start-line="173" selection-start-column="40" selection-end-line="173" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms/result_form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/main.py" />
+    <entry file="file://$PROJECT_DIR$/web/scrape_cacher.py" />
+    <entry file="file://$PROJECT_DIR$/web/db_web_func.py" />
+    <entry file="file://$PROJECT_DIR$/web/equipment_egoname_scraper.py" />
+    <entry file="file://$PROJECT_DIR$/web/portrait_scrape.py" />
+    <entry file="file://$PROJECT_DIR$/web/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/web/abnoma_list_scrape.py" />
+    <entry file="file://$PROJECT_DIR$/controller/employee_controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/abnoma_list_scrape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_qt_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/abnoma_controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/equipment_egoname_scraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="107" column="44" selection-start-line="107" selection-start-column="44" selection-end-line="107" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lobo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1540126518070" expanded="true" signature="1435:1440" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/portrait_scrape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setting_const.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1616">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+          <folding>
+            <marker date="1540138079186" expanded="true" signature="1589:1594" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_accessor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1776">
+          <caret line="112" column="18" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom_component/dgv_table_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/pyLobo/Lib/site-packages/bs4/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17056">
+          <caret line="1070" selection-start-line="1070" selection-end-line="1070" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myweb/db_web_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1952">
+          <caret line="128" column="8" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms/select_work_abnoma_form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms/team_form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#580#769#0" />
+            <element signature="e#826#2090#0" />
+            <element signature="e#969#1561#0" />
+            <element signature="e#1036#1527#0" />
+            <element signature="e#1080#1191#0" />
+            <element signature="e#1252#1359#0" />
+            <element signature="e#1420#1527#0" />
+            <element signature="e#1910#2090#0" />
+            <element signature="e#2142#4329#0" />
+            <element signature="e#2197#2669#0" />
+            <element signature="e#2267#2632#0" />
+            <element signature="e#2311#2419#0" />
+            <element signature="e#2482#2632#0" />
+            <element signature="e#2835#3611#0" />
+            <element signature="e#3720#4155#0" />
+            <element signature="e#3910#4126#0" />
+            <element signature="e#4059#4126#0" />
+            <element signature="e#4276#4329#0" />
+            <element signature="e#4385#4761#0" />
+            <element signature="e#4396#4682#0" />
+            <element signature="e#4467#4681#0" />
+            <element signature="e#4819#5293#0" />
+            <element signature="e#4830#5181#0" />
+            <element signature="e#4921#5180#0" />
+            <element signature="e#5333#5479#0" />
+            <element signature="e#5524#5575#0" />
+            <element signature="e#5653#5767#0" />
+            <element signature="e#5810#5846#0" />
+            <element signature="e#5893#6178#0" />
+            <element signature="e#6059#6178#0" />
+            <element signature="e#6229#6559#0" />
+            <element signature="e#6307#6532#0" />
+            <element signature="e#6620#6990#0" />
+            <element signature="e#7035#8922#0" />
+            <element signature="e#7122#7357#0" />
+            <element signature="e#7451#7695#0" />
+            <element signature="e#7814#8406#0" />
+            <element signature="e#7869#8406#0" />
+            <element signature="e#8131#8406#0" />
+            <element signature="e#8417#8459#0" />
+            <element signature="e#8985#9424#0" />
+            <element signature="e#9303#9424#0" />
+            <element signature="e#9454#10413#0" />
+            <element signature="e#9509#10413#0" />
+            <element signature="e#9731#10064#0" />
+            <element signature="e#10164#10413#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forms/employee_form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#133#0" expanded="true" />
+            <marker date="1542607160212" expanded="true" signature="481:485" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
