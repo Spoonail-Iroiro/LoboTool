@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>400</width>
-    <height>300</height>
+    <width>1196</width>
+    <height>914</height>
    </rect>
   </property>
   <property name="font">
@@ -17,7 +17,7 @@
    </font>
   </property>
   <property name="windowTitle">
-   <string>Dialog</string>
+   <string>エージェント</string>
   </property>
   <widget class="QPushButton" name="btnSuppression">
    <property name="geometry">
@@ -104,7 +104,40 @@
     <string>削除</string>
    </property>
   </widget>
+  <widget class="QPushButton" name="btnResult">
+   <property name="geometry">
+    <rect>
+     <x>1010</x>
+     <y>840</y>
+     <width>151</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>テキスト生成</string>
+   </property>
+  </widget>
  </widget>
  <resources/>
- <connections/>
+ <connections>
+  <connection>
+   <sender>btnResult</sender>
+   <signal>clicked()</signal>
+   <receiver>EmployeeForm</receiver>
+   <slot>btnResult_clicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>1187</x>
+     <y>816</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>1066</x>
+     <y>739</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>btnResult_clicked()</slot>
+ </slots>
 </ui>

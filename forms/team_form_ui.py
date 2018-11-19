@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file './forms/team_form.ui'
 #
-# Created: Sun Oct 14 23:01:04 2018
+# Created: Tue Nov 20 00:02:37 2018
 #      by: pyside2-uic 2.0.0 running on PySide2 5.6.0~a1
 #
 # WARNING! All changes made in this file will be lost!
@@ -12,7 +12,7 @@ from PySide2 import QtCore, QtGui, QtWidgets
 class Ui_TeamForm(object):
     def setupUi(self, TeamForm):
         TeamForm.setObjectName("TeamForm")
-        TeamForm.resize(1628, 906)
+        TeamForm.resize(766, 906)
         font = QtGui.QFont()
         font.setFamily("Yu Gothic UI")
         font.setPointSize(10)
@@ -111,6 +111,7 @@ class Ui_TeamForm(object):
         self.btnSuppression.setGeometry(QtCore.QRect(840, 110, 41, 41))
         self.btnSuppression.setObjectName("btnSuppression")
         self.btnClear = QtWidgets.QPushButton(TeamForm)
+        self.btnClear.setEnabled(True)
         self.btnClear.setGeometry(QtCore.QRect(1040, 40, 111, 31))
         self.btnClear.setObjectName("btnClear")
         self.imgAbnoma = QtWidgets.QLabel(TeamForm)
@@ -180,13 +181,11 @@ class Ui_TeamForm(object):
         self.btnResult.setObjectName("btnResult")
 
         self.retranslateUi(TeamForm)
-        QtCore.QObject.connect(self.btnInstinct, QtCore.SIGNAL("clicked()"), TeamForm.btnSearch_clicked)
         QtCore.QObject.connect(self.btnAptitude, QtCore.SIGNAL("clicked()"), TeamForm.btnAptitude_clicked)
-        QtCore.QObject.connect(self.btnResult, QtCore.SIGNAL("clicked()"), TeamForm.btnResult_clicked)
         QtCore.QMetaObject.connectSlotsByName(TeamForm)
 
     def retranslateUi(self, TeamForm):
-        TeamForm.setWindowTitle(QtWidgets.QApplication.translate("TeamForm", "Form", None, -1))
+        TeamForm.setWindowTitle(QtWidgets.QApplication.translate("TeamForm", "アブノーマリティ", None, -1))
         self.btnInstinct.setText(QtWidgets.QApplication.translate("TeamForm", "本能", None, -1))
         self.imgControl.setText(QtWidgets.QApplication.translate("TeamForm", "TextLabel", None, -1))
         self.imgSafe.setText(QtWidgets.QApplication.translate("TeamForm", "TextLabel", None, -1))

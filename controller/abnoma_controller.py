@@ -18,6 +18,10 @@ class AbnomaController():
         self.pri_key = None
         self.selected = False
         self.stared = False
+        self.manager = None
+
+    def set_parent_manager(self, manager):
+        self.manager = manager
 
     def btnRegister_clicked(self):
         form = SelectAbnomaForm()

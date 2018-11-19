@@ -11,7 +11,7 @@ class EmployeeController(QObject):
     work_registered = Signal()
     work_unregistered = Signal()
 
-    def __init__(self, id, ui_set, base_set, get_pri_keys_func):
+    def __init__(self, id, ui_set, base_set):
         super().__init__()
         self.id = id
         #ターゲットアブノーマリティのpri_key
@@ -20,7 +20,10 @@ class EmployeeController(QObject):
         self.work_code = None
         self.ui_set = ui_set
         self.base_set = base_set
-        self._get_pri_keys_func = get_pri_keys_func
+        # self._get_pri_keys_func = get_pri_keys_func
+
+    def set_parent_manager(self, manager):
+        self.manager = manager
 
     def setupui(self):
         x_gap = 400
@@ -62,7 +65,8 @@ class EmployeeController(QObject):
 
     def btnWork_clicked(self, work_code):
         from forms.select_target_form import SelectTargetForm
-        pri_keys = self._get_pri_keys_func()
+        #managerのメソッドでアブノーマリティの一覧を取得/
+        pri_keys = self.manager.get_abnoma_pri_keys()
         form = SelectTargetForm(work_code, pri_keys)
         form.exec_()
 
