@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06232165-7272-406a-929f-1192021ffe72" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bak_select_abnoma_form_bak.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bak_team.sdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_baks/bak_team.sdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_baks/dev_bak_team.sdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_baks/dev_bak_team2.sdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lobo.py" beforeDir="false" afterPath="$PROJECT_DIR$/lobo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_md/convertlinks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_md/img/pic_5728.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_md/img/pic_5729.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_md/img/pic_5731.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_md/img/pic_5733.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_md/img/pic_9999.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_md/register_abnormality.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_md/register_abnormality.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_md/register_agent.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_md/register_aptitude.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_md/script.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_md/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_md/test.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_md/text.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_md/text_clearness_dark.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme_md/tmp/register_abnormality_nocssl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting_const.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting_const.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.sdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp_sqlite.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +14,7 @@
     <session id="-956058358">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -54,14 +28,14 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
-          <entry key="html" value="7" />
+          <entry key="html" value="8" />
           <entry key="py" value="162" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="HTML" value="7" />
+          <entry key="HTML" value="8" />
           <entry key="Python" value="162" />
         </counts>
       </usages-collector>
@@ -70,14 +44,14 @@
         <counts>
           <entry key="css" value="142" />
           <entry key="dummy" value="120" />
-          <entry key="html" value="1464" />
+          <entry key="html" value="1505" />
           <entry key="py" value="47775" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="142" />
-          <entry key="HTML" value="1464" />
+          <entry key="HTML" value="1505" />
           <entry key="PLAIN_TEXT" value="120" />
           <entry key="Python" value="47775" />
         </counts>
@@ -87,9 +61,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readme/index.html">
+        <entry file="file://$PROJECT_DIR$/readme.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-480" />
+            <state relative-caret-position="272">
+              <caret line="41" column="15" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -117,7 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/web/Portrait/scrape_cacher.py" />
         <option value="$PROJECT_DIR$/web/scrape_cacher.py" />
         <option value="$PROJECT_DIR$/web/get_abnoma.py" />
         <option value="$PROJECT_DIR$/__init__.py" />
@@ -168,6 +143,7 @@
         <option value="$PROJECT_DIR$/readme_md/index.html" />
         <option value="$PROJECT_DIR$/lobo.py" />
         <option value="$PROJECT_DIR$/setting_const.py" />
+        <option value="$PROJECT_DIR$/readme.html" />
       </list>
     </option>
   </component>
@@ -379,13 +355,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="230" y="79" width="1218" height="831" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17527519" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32624114" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2320917" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2320917" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39716312" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -728,6 +705,13 @@
     <entry file="file://$PROJECT_DIR$/readme/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-480" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="41" column="15" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
+        </state>
       </provider>
     </entry>
   </component>
