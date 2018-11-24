@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="./readme/text.css">
+</head>
+<body>
+<h1 id="このツールは">このツールは？</h1>
+<p>ゲーム「Lobotomy Corporation」プレイ時のマネジメントを補助するツールです。<br />
+主に「職員を育成する際のアブノーマリティと職員の割当て」を考えるのを補助します。<br>
+個人で使っているオレオレツールを使う人いるかなーと公開してるレベルなので、
+    色々足りない部分があります。<br>
+    また、プレイスタイルによっては役に立たないかもしれません。<br>
+</p>
+<br>
+<p>そもそもこのツールを作ろうと思ったのは
+職員の育成を考えながら配属することを考えた時、</p>
+<ul>
+<li>職員ごとの育成したい能力値に応じて、対応する作業の成功率が高いアブノーマリティに割り当てたい</li>
+<li>育成に有用なアブノーマリティを暇にしておきたくない</li>
+<li>1匹のアブノーマリティに1人の割当てにして事故を防ぎたい</li>
+</ul>
+<p>等の条件を満たすように決めたいなーと思ったからです。<br />
+    最初はメモ帳の上でアブノーマリティへの職員の割当作業メモを作っていましたが、
+    職員とアブノーマリティの数が増えるに連れ、ついうっかり割当を被らせてしまうなど、なかなか考えるのが難しくなってきました。</p>
+<p>本ツールを使うことで</p>
+<ul>
+<li>収容しているアブノーマリティと作業適性を登録</li>
+<li>職員に割り当てる作業とアブノーマリティを登録</li>
+<li>登録結果を元にプレイ中に見やすい作業メモを生成</li>
+</ul>
+<p>することでこの割当作業が簡単にできる…と思います。</p>
+<h1>ソフトウェア情報</h1>
+<div class="info">
+    <p>
+        【作成者】Spoonail（Twitter:<a href="https://twitter.com/Spoonail_iroiro" target="_blank">@Spoonail_Iroiro</a>）<br>
+        【ライセンス】MIT（利用：無制限、改変・再配布：著作者表記の上で無制限）<br>
+        【ソースコード】
+        <br>
+
+    </p>
+</div>
+<h1 id="使い方">使い方</h1>
+<div class="usage_pages" >1. <a href="readme/register_abnormality.html">収容しているアブノーマリティを登録する</a></div>
+<p>　</p>
+<div class="usage_pages" >2. <a href="readme/register_aptitude.html">アブノーマリティの作業適性を登録する</a></div>
+<p>　</p>
+<div class="usage_pages" >3. <a href="readme/register_agent.html">職員名を記入、作業とアブノーマリティを割り当てる</a></div>
+<p>　</p>
+<div class="usage_pages" >4. 作業メモを生成する</div>
+「エージェント」ウィンドウで「テキスト生成」ボタンを押すと作業メモ表示<br>
+※並び順はアブノーマリティの収容部門（施設上から）<br>
+※Starしたアブノーマリティへの作業未割り当て、職員への割当被りに応じて警告表示<br>
+</body>
+</html>

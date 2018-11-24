@@ -1,0 +1,75 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: メイリオ, "Meiryo", Arial, sans-serif;
+    color: #FFF;
+    font-size: medium;
+    line-height: 1.5;
+    background-color: #232225;
+    width: 800px;
+    margin: 10px auto;
+}
+
+a {
+    color: #59acf3;
+}
+a:hover {
+    color: #a7d8ff;
+    text-decoration: none;
+}
+
+a img {
+    border: none;
+}
+p {
+    margin-bottom: 9px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #fff;
+    line-height: 36px;
+}
+
+h1 {
+    margin-bottom: 18px;
+    font-size: 28px;
+    border-bottom: dashed 2px #6594e0;
+}
+h2 {
+    font-size: 20px;
+    padding: 0.25em 0.5em;
+    border-bottom: solid 1px #6594e0;
+    border-left: solid 5px #6594e0;
+}
+h3 {
+    font-size: 16px;
+}
+h4 {
+    font-size: 16px;
+}
+h5 {
+    font-size: 14px;
+}
+h6 {
+    font-size: 13px;
+}
+
+div.usage_pages {
+    font-size: 20px;
+    margin-bottom: 10px;
+}

@@ -1,3 +1,4 @@
+import sys
 
 risk_level_code = {
     "ZAYIN":1,
@@ -44,10 +45,12 @@ damage_type_code = {
 inv_appetitude_code = {v:k for k, v in appetitude_code.items()}
 
 from pathlib import Path
-db_path = Path(__file__).parent / "team.sdb"
 
-portrait_dir = Path(__file__).parent / "myweb" / "Portrait"
-resource_dir = Path(__file__).parent / "Resource"
+resource_dir = Path(sys.argv[0]).parent / "Resource"
+
+db_path = resource_dir / "team.sdb"
+
+portrait_dir = resource_dir / "Portrait"
 
 import sqlite3
 from PySide2.QtGui import QPixmap, QImage
@@ -114,6 +117,4 @@ global_header = {
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
 }
 
-
-
-
+print(resource_dir)

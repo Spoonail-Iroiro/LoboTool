@@ -116,3 +116,6 @@ dmypy.json
 
 env.bat
 pyside2-uic.txt
+dist/
+build/
+product/
